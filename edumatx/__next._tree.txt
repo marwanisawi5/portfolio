@@ -5,4 +5,4 @@
 :HL["/portfolio/_next/static/media/edumatx_logo_web.1ziaz93__rhmg.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"edumatx","h":96,"c":"$Q2"}]]
-0:{"b":"X-Y5M29oUo6g8lgkxdDn0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"vDFw6cJe_HTBVaRg7j-S2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
